@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+streamlit>=1.39
+numpy
+soundfile
+torch
+torchaudio
+transformers
+speechbrain
+phonemizer
